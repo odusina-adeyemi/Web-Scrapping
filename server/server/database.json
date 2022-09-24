@@ -1,0 +1,41 @@
+[
+  {
+    "organization": "Mouka",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "mattress",
+      "pillow"
+    ],
+    "marketValue": "90%",
+    "address": "Ikeja",
+    "ceo": "efx",
+    "country": "Taiwan",
+    "id": 2,
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ]
+  },
+  {
+    "id": 3,
+    "organization": "Mouka2",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "mattress",
+      "pillow",
+      "bedsheet"
+    ],
+    "marketValue": "90%",
+    "address": "Ikeja",
+    "ceo": "efx",
+    "country": "Taiwan",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ]
+  }
+]
